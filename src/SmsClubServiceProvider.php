@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\SmsClub;
+namespace Futurum\SmsClub;
 
 use Illuminate\Support\ServiceProvider;
 

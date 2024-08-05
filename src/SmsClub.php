@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\SmsClub;
+namespace Futurum\SmsClub;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
