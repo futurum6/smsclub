@@ -1,0 +1,19 @@
+{
+    "name": "futurum/smsclub",
+    "description": "A Laravel package for SMSClub integration",
+    "autoload": {
+        "psr-4": {
+            "Futurum\\SmsClub\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Futurum\\SmsClub\\SmsClubServiceProvider"
+            ]
+        }
+    }
+}
